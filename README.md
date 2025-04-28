@@ -1,7 +1,7 @@
 # Urban Mobility Insights with Python (NYC Taxi Trips)
 Data can optimize taxi routes and reduce congestion in bustling citie. In this project I analyzed NYC taxi data to identify optimal zones for efficient operations.
 
-Link to the main file for analysis : https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Link of the main file for analysis : https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 **Here’s what the code does:**  
 1️⃣ **Data Loading & Preprocessing**  
